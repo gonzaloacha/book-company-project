@@ -39,6 +39,10 @@
     .section-3 .desktop i{
         font-size: 8vmin;
     }
+    
+    .numbers {
+        margin-top: -7vmin;
+    }
 
     /* .section-4 .carousel-item {
         padding-left: 0rem;

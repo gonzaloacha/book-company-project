@@ -305,6 +305,7 @@ border-radius: 0.2em;
 
 .section-4 .team {
     padding: 0.5vmin 4vmin;
+    padding-bottom: 10vmin;
 }
 
 .section-4 .card {
